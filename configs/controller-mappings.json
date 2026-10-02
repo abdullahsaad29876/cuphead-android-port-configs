@@ -1,0 +1,14 @@
+{
+  "game": "Cuphead Mobile Port",
+  "profile": "Default-Gamepad",
+  "buttons": {
+    "Button_A": "Jump",
+    "Button_X": "Shoot",
+    "Button_Y": "EX Move / Super",
+    "Button_B": "Dash",
+    "LB": "Lock in Place",
+    "RB": "Switch Weapon"
+  },
+  "deadzone": 0.15,
+  "vibration_intensity": 0.8
+}
